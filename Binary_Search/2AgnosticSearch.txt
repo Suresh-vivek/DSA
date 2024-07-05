@@ -1,0 +1,10 @@
+in this question array is sorted but it is not given whether it is sorted in ascending or descending
+order.
+
+first check if there is only element that compare it with the target if it's equal return true else false
+
+then to check order , compare any two elements check which one is greater , by this you can find out 
+the order , we are checking for single element in first case because if there is no 2nd element how we can compare 
+it 
+
+after finding the order , apply binary search accordingly .
